@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Food ordering web app**
 
-- 🌱 I’m currently learning **NodeJS and AEM back-end**
+- 🌱 I’m currently learning **NodeJS and DSA**
 
 - 👯 I’m looking to collaborate on **Any AEM or Front End related projects**
 
