@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NaFi1FoTtSb9fSaY6CTlKpZTCt5t_3tY/view?usp=sharing](https://drive.google.com/file/d/1NaFi1FoTtSb9fSaY6CTlKpZTCt5t_3tY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex">
 <a href="https://linkedin.com/in/prasad-nagthane-437075185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-nagthane-437075185" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/prasad-nagthane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prasad-nagthane" height="30" width="40" /></a>
 <a href="https://instagram.com/prasadn016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasadn016" height="30" width="40" /></a>
