@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nagthanep@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1bUEpB31lAd2iO2Ksgt-IPAoZYNxX6u-V/view" target="_blank" style="position: relative; top: 6px;"><img src="https://img.shields.io/badge/-View_My_Resume-0052CC?style=flat-square&logo=google-drive&logoColor=white" alt="Resume Badge"/></a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/17DDX4YrwwVET9IQRsRx9xdn_45EiL72h/view?usp=sharing" target="_blank" style="position: relative; top: 6px;"><img src="https://img.shields.io/badge/-View_My_Resume-0052CC?style=flat-square&amp;logo=google-drive&amp;logoColor=white" alt="Resume Badge"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p style="display: flex; justify-content: flex-start; align-items: center; gap: 10px;">
